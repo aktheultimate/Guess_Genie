@@ -360,7 +360,7 @@ int main()
             a.insert3(436);
             umap[436]="You are thinking of Giraffe";
             a.insert3(440);
-            umap[73]="You are thinking of Horse";
+            umap[440]="You are thinking of Horse";
             break;
         case 4:
             h=0;
